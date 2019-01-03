@@ -1,0 +1,27 @@
+{
+  "name": "get_data_twitter",
+  "version": "1.0.0",
+  "description": "this is nodejs application for crawling data from twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handal/get_data_twitter.git"
+  },
+  "keywords": [
+    "twiter",
+    "crawling",
+    "nodejs"
+  ],
+  "author": "Handal Abdillah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handal/get_data_twitter/issues"
+  },
+  "homepage": "https://github.com/handal/get_data_twitter#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
